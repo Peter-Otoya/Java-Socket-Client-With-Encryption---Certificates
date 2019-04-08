@@ -5,10 +5,6 @@ import java.util.ArrayList;
 
 /**
  * Clase que contiene metodos static que proveen de metodos de transformacion al protocolo.
- * Infraestructura Computacional 201320
- * Universidad de los Andes.
- * Las tildes han sido eliminadas por cuestiones de compatibilidad.
- * @author Michael Andres Carrillo Pinzon
  */
 public class BytesMarshaller {
 
